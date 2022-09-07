@@ -1,0 +1,53 @@
+* {
+    background-color: rgb(203, 208, 185);
+}
+h1, h2, h3, p{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: rgb(0, 52, 89);
+    font-size: 40px;
+}
+
+h2 {
+    color: rgb(0, 167, 225);
+    font-size: 27px;
+}
+
+h3 {
+    color: rgb(124, 126, 167);
+    font-style: italic;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    border: 5px solid rgb(255, 214, 186);
+}
+
+#homepageimg {
+    width: 50%;
+}
+
+div.container {
+    text-align: center;
+}
+
+ul.myUL, ol.myUL {
+    display: inline-block;
+    text-align: left;
+}
+
+ul, ol {
+    font-family: monospace;
+    font-style: italic;
+    font-size: 18px;
+}
+
+p {
+    font-size: 18px;
+}
